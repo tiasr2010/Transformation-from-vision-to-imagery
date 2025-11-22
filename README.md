@@ -17,12 +17,12 @@ The exact minimal requirements are not fully determined. However, the implementa
 
 ## 🧪 Tested Environment
 
-OS: Ubuntu 16.04.1 LTS 
-Hardware: 48 GB RAM 
-Python: 3.9.18 
-NumPy: 1.26.4
-scikit-learn: 1.3.0
-matplotlib: 3.8.0
+- OS: Ubuntu 16.04.1 LTS 
+- Hardware: 48 GB RAM 
+- Python: 3.9.18 
+- NumPy: 1.26.4
+- scikit-learn: 1.3.0
+- matplotlib: 3.8.0
 
 ---
 
