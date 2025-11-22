@@ -3,19 +3,19 @@
 This repository contains code demonstrating how voxel-to-voxel reduced-rank multivariate regression models were trained to isolate stimulus-specific activity from noisy multi-voxel patterns and to infer visual and imagery subspaces.
 
 ---
-## 🖥 Supported Operating Systems
+## Supported Operating Systems
 
 - Ubuntu
 - Windows 
 - macOS
 
-## 🧩 Software Dependencies
+## Software Dependencies
 
 The exact minimal requirements are not fully determined. However, the implementation relies primarily on standard Python libraries with very few external dependencies, so older versions of these packages may still work adequately.
 
 ---
 
-## 🧪 Tested Environment
+## Tested Environment
 
 - OS: Ubuntu 16.04.1 LTS 
 - Hardware: 48 GB RAM 
@@ -26,13 +26,13 @@ The exact minimal requirements are not fully determined. However, the implementa
 
 ---
 
-## 🔧 Required Non-Standard Hardware
+## Required Non-Standard Hardware
 
 None — standard consumer hardware is sufficient.
 
 ---
 
-## 📥 Installation Guide
+## Installation Guide
 
 
 ### Clone the repository:
