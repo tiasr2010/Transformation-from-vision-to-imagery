@@ -35,7 +35,7 @@ None — standard consumer hardware is sufficient.
 ## 📥 Installation Guide
 
 
-### 1. Clone the repository:
+### Clone the repository:
 ```bash
 git clone https://github.com/tiasr2010/Transformation-from-vision-to-imagery.git
-cd project
+cd Transformation-from-vision-to-imagery
