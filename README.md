@@ -32,6 +32,10 @@ None — standard consumer hardware is sufficient.
 
 ---
 
+## Dataset
+
+You can download the NSD Imagery dataset from https://naturalscenesdataset.org
+
 ## Installation Guide
 
 
