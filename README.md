@@ -21,7 +21,10 @@ The exact minimal requirements are not fully determined. However, the implementa
 - Python: 3.9.18 
 - NumPy: 1.26.4
 - scikit-learn: 1.3.0
+- scipy: 1.11.4
+- nibabel: 5.2.0
 - matplotlib: 3.8.0
+- seaborn: 0.13.0
 
 ## Required Non-Standard Hardware
 
